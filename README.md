@@ -6,8 +6,11 @@ Steps to compile:
 1. Download Remix IDE app on Desktop, Windows, or Linux. Or use the web based version.
 
 Remix IDE compiler configuration settings.
+
 2. Check Compiler 0.5.17
+
 3. Language: Solidity
+
 4. EVM Version: Byzantium
 
 5. When deploying the contract, make sure you have a value in the uint256 _count field.
